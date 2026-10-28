@@ -113,6 +113,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 ## Payments & Billing
 
+- [a2vanta](https://a2vanta.com/) [B2B] - USDT-funded supplier invoice payments. Partners pay suppliers in fiat after document review and approval.
 - [BillGO](https://www.billgo.com/) [B2B, [@BillGOPayments](https://twitter.com/BillGOPayments), [LinkedIn](https://www.linkedin.com/company/billgopayments/), [Careers](https://www.billgo.com/join-us)] - BillGO facilitates a better financial future for everyone by combining the power of speed, choice and intelligence.
 - [Bolt](https://www.boltapp.com/) [B2SMB, [@bolt](https://twitter.com/bolt), [LinkedIn](https://www.linkedin.com/company/bolt-com/), [Careers](https://www.boltapp.com/careers/)] - We’re democratizing commerce
 - [Bread Financial](https://www.breadfinancial.com/) [B2B, [@BreadFinancial](https://twitter.com/BreadFinancial), [LinkedIn](https://www.linkedin.com/company/bread-financial/), [Careers](https://www.breadfinancial.com/en/who-we-are/careers.html)] - Bread Financial provides simple, personalized payment, lending and saving solutions
